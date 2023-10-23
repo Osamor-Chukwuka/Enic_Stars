@@ -1,1 +1,1 @@
-School website for Enic Stars Academy (includes result portal)
+School website for Enic Stars Academy (includes result portal).
